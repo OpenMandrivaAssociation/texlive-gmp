@@ -3,7 +3,7 @@ Version:	21691
 Release:	2
 Summary:	Allow integration between MetaPost pictures and LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/gmp
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gmp
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gmp.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/gmp.doc.r%{version}.tar.xz
