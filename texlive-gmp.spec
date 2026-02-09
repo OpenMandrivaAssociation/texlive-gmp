@@ -1,6 +1,6 @@
 Name:		texlive-gmp
-Version:	21691
-Release:	2
+Version:	77677
+Release:	1
 Summary:	Allow integration between MetaPost pictures and LaTeX
 Group:		Publishing
 URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/gmp
